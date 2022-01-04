@@ -2,3 +2,4 @@ this line was added in feature-2
 another file created here
 this file was modified locally
 this line was added in feature-2
+another modification in feature-2
